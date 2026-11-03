@@ -1,0 +1,3 @@
+<FilesMatch "^(config\.php|lib\.php|lib_broadcast\.php|schema\.sql|schema_templates\.sql|README\.md)$">
+  Require all denied
+</FilesMatch>
